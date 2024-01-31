@@ -27,7 +27,6 @@ class STTextViewSystemInterface: TextSystemInterface {
     }
 
     func applyStyle(to token: Neon.Token) {
-        print(token)
         guard let attrs = attributeProvider(token),
               let textRange = NSTextRange(token.range, in: textView.textContentManager)
         else {

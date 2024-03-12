@@ -14,7 +14,7 @@ let package = Package(
     dependencies: [
         .package(url: "https://github.com/krzyzanowskim/STTextView", from: "0.8.13"),
         .package(url: "https://github.com/ChimeHQ/Neon.git", from: "0.6.0"),
-        .package(url: "https://github.com/CodeEditApp/CodeEditLanguages", from: "0.1.18")
+        .package(url: "https://github.com/CodeEditApp/CodeEditLanguages", exact: "0.1.17")
     ],
     targets: [
         .target(

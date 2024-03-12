@@ -3,10 +3,10 @@
     {
       "identity" : "codeeditlanguages",
       "kind" : "remoteSourceControl",
-      "location" : "https://github.com/CodeEditApp/CodeEditLanguages",
+      "location" : "https://github.com/fdgogogo/CodeEditLanguages",
       "state" : {
-        "revision" : "620b463c88894741e20d4711c9435b33547de5d2",
-        "version" : "0.1.18"
+        "branch" : "main",
+        "revision" : "08c49e73b3c5c1443c32abca6cf4cdbd71cc2328"
       }
     },
     {
